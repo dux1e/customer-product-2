@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=OrderLine
+comment0.text=\r\n\ @author\ (FEN)\ \r\n\ @version\ (13.09.2019)\r\n
+comment1.params=newAmount\ newProduct
+comment1.target=OrderLine(int,\ Product)
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=Product\ getProduct()
+comment4.params=
+comment4.target=void\ printInfo()
+numComments=5
